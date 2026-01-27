@@ -1,7 +1,7 @@
 
 # User Access Review & Evidence Documentation Project
 
-## ⭐ Situation
+## Situation
 Organizations must regularly review user access to ensure employees only have access
 necessary for their job roles. Poor access control increases the risk of data breaches,
 insider threats, and audit findings.
@@ -11,7 +11,7 @@ a periodic user access review while maintaining audit-ready evidence.
 
 ---
 
-## ⭐ Task
+## Task
 My responsibilities included:
 - Reviewing access requests submitted through Jira
 - Verifying manager approval before access was granted
@@ -21,7 +21,7 @@ My responsibilities included:
 
 ---
 
-## ⭐ Action
+## Action
 I performed the following actions:
 - Reviewed Jira access request tickets for completeness and approval
 - Validated manager authorization via email evidence
@@ -31,7 +31,7 @@ I performed the following actions:
 
 ---
 
-## ⭐ Result
+## Result
 This project demonstrates my ability to:
 - Perform access request and user access reviews
 - Scrutinize approvals and authorization
